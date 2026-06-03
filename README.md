@@ -33,3 +33,4 @@ The player starts at the start area and must move through a complete platforming
 - C#
 - Universal 2D / URP
 Final working version.
+To run the game, open Assets/_Game/Scenes/MainScene in Unity and press Play.
